@@ -1,0 +1,9 @@
+transformers
+datasets
+streamlit
+sentencepiece
+torch
+accelerate
+PyMuPDF
+transformers
+nltk
