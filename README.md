@@ -4,7 +4,7 @@ create virtual environment using the command        python -m venv {your_environ
 
 Activate enviroment 
 
-install requirements.txt using    pip install -r requirements.txt
+install requirements.txt using the command   pip install -r requirements.txt
 
-run the project    python manage.py runserver
+run the project using the command python manage.py runserver
 
